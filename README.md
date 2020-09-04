@@ -19,16 +19,16 @@ README document
 
 ### Sitemap ###
 
-![sitemap](./docs/sitemap.png)
+![sitemap](docs/sitemap.png)
 
 
 ### Screenshots ###
 
-![homepage.html](./docs/homepage-laptopview.png)
+![homepage.html](docs/homepage-laptopview.png)
 
-![professionalhistory.html](./docs/professionalHistory-laptopview.png)
+![professionalhistory.html](docs/professionalHistory-laptopview.png)
 
-![blogs.html](./docs/blogs-laptopview.png)
+![blogs.html](docs/blogs-laptopview.png)
 
 
 ### Target audience ###

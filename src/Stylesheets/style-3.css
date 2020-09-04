@@ -1,0 +1,64 @@
+
+#container {
+  display:flex;
+  flex-direction:column;
+  width:80vw;
+  padding:30px;
+  margin:0px auto;    
+}
+
+.more-about-me header {
+  display:flex;
+  flex-direction:row;
+  width:100%;
+  justify-content: space-between;
+  align-items: center;
+  margin:20px auto;
+}
+
+.more-about-me {
+  margin-bottom:30px;
+}
+
+.more-about-me h1.heading {
+  padding-left:0px;
+}
+
+
+.detail-container h3 {
+  border-left:2px solid green;
+  padding:0px 0px 0px 30px;
+  line-height: 1.6rem;
+  text-align: justify;
+  margin-top:0px; 
+}
+
+
+
+/* BREAK POINT for Mobiles */
+
+@media only screen and (max-width:425px) {
+
+  #navbar a {
+  font-size:13px;
+  } 
+
+  .detail-container h3 {
+    font-size:16px;
+  }
+}
+
+  @media only screen and (min-width:766px) and (max-width:1000px) {     
+
+    .detail-container h3 {
+      font-size:23px;
+    }
+  }
+
+
+  @media only screen and (min-width:1001px) {      
+   
+    .detail-container h3 {
+      font-size: 25px;
+    }
+  }
